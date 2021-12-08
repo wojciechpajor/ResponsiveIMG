@@ -1,0 +1,22 @@
+.imgStyle {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
+
+.buttonStyle {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 50px;
+    width: 150px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: #e33b3b;
+    font-size: 20px;
+    flex-shrink: inherit;
+}
+.buttonStyle:hover {
+    background-color: #960000;
+}
